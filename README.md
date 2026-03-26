@@ -2,7 +2,7 @@ Mini RTOS Scheduler (C)
 Overview
 
 This project implements a lightweight, cooperative RTOS-style task scheduler in C.
-It demonstrates core operating system concepts such as task control blocks, task states, blocking delays, and scheduler ticks—in a simplified, educational form.
+It demonstrates core operating system concepts such as task control blocks, task states, blocking delays, and scheduler ticks in a simplified, educational form.
 
 Why this project
 
